@@ -48,8 +48,7 @@ No extra prompting. No wasted time. Just documentation, ready in one click.
 ---
 
 ## 📑 Presentation Slides
-- 📄 ./docs/ClickDoc ppt.pdf
-
+- 📄 [ClickDoc Slides (PDF)](./docs/ClickDoc_Slides.pdf)  
 
 ---
 
