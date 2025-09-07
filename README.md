@@ -38,12 +38,12 @@ No extra prompting. No wasted time. Just documentation, ready in one click.
 ---
 
 ## 🖥️ Prototype
-- 🔗 [Canva Prototype Link](#) *(insert link)*  
+- 🔗 https://clickdoc.my.canva.site/
 
 ---
 
 ## 🎥 Video Presentation
-- 🔗 [YouTube Link](#) *(insert once uploaded)*  
+- 🔗 https://youtu.be/BZRvZw7n2no  
 
 ---
 
